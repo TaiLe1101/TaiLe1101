@@ -57,17 +57,9 @@
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
-<div align="center" style="display: flex; justify-content:center; gap: 8px;align-items:center">
-  <a href="https://devtblog.vercel.app" target="blank">
-    <img width="70" height="70" style="border-radius: 50%;" src="images/logo.jpg" alt="TaiLe1101-blog" />
-  </a>
-  <a href="https://facebook.com/TaiLe1101" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="TaiLe1101-facebook" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCgLvfpvKM9JPCca8dynSMkg" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="TaiLe1101-youtube" />
-  </a>
-</div>
+<a href="#" target="_blank">
+  <img src="svg/TaiLe1101-lang.svg" width="1200" alt="TaiLe1101-official" />
+</a>
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
